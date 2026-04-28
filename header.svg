@@ -1,0 +1,7 @@
+<svg width="860" height="155" viewBox="0 0 860 155" xmlns="http://www.w3.org/2000/svg">
+    <rect width="860" height="155" fill="#0d1117"/>                                                                                                                                                                                                                            
+    <text x="15" y="115" font-family="Arial" font-size="78" font-weight="bold" fill="white">Hey!</text>
+    <ellipse cx="390" cy="77" rx="108" ry="63" fill="#6366f1"/>                                                                                                                                                                                                                
+    <text x="390" y="100" text-anchor="middle" font-family="Arial" font-size="65" font-weight="bold" fill="white">I'm</text>                                                                                                                                                   
+    <text x="508" y="115" font-family="Arial" font-size="78" font-weight="bold" fill="white">Abdulloh</text>                                                                                                                                                                   
+  </svg>      
